@@ -7,8 +7,8 @@
     Shell.FlyoutBehavior="Disabled">
 
     <ShellContent
-        Title="Home"
-        ContentTemplate="{DataTemplate local:MainPage}"
+        Title="Kanji Dictionary"
+        ContentTemplate="{DataTemplate view:MainPage}"
         Route="MainPage" />
 
 </Shell>
